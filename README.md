@@ -1,4 +1,4 @@
-# 🤖 Wymień Forse Bot
+# 🤖 ALLINONE Bot
 
 Bot Discord dla serwera Wymień Forse z pełnym systemem wymian, prowizji, ticketów i reputacji.
 
