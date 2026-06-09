@@ -1,0 +1,473 @@
+{
+  "users": {
+    "412235004228141069": {
+      "rep": 40,
+      "exchanges": [
+        {
+          "from": "ronek",
+          "to": "ronek",
+          "method": "BLIK",
+          "amount": 1000,
+          "giver": "412235004228141069",
+          "date": "2026-06-08T23:05:04.010Z"
+        },
+        {
+          "from": "ronek",
+          "to": "ronek",
+          "method": "BLIK",
+          "amount": 100000,
+          "giver": "412235004228141069",
+          "date": "2026-06-08T23:07:07.071Z"
+        },
+        {
+          "from": "ronek",
+          "to": "ronek",
+          "method": "BLIK",
+          "amount": 100,
+          "giver": "412235004228141069",
+          "date": "2026-06-08T23:07:14.023Z"
+        },
+        {
+          "from": "ronek",
+          "to": "ronek",
+          "method": "BLIK",
+          "amount": 1000,
+          "giver": "412235004228141069",
+          "date": "2026-06-08T23:27:54.992Z"
+        },
+        {
+          "from": "ronek",
+          "to": "ronek",
+          "method": "BLIK",
+          "amount": 1500,
+          "giver": "412235004228141069",
+          "date": "2026-06-08T23:38:39.547Z"
+        },
+        {
+          "from": "ronek",
+          "to": "ronek",
+          "method": "dwada",
+          "amount": 10000,
+          "giver": "412235004228141069",
+          "date": "2026-06-08T23:42:04.421Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "ronek",
+          "method": "Exchanged BLIK to LTC",
+          "amount": 350,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T08:42:58.620Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "ronek",
+          "method": "Exchanged BLIK to LTC",
+          "amount": 350,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T08:44:05.800Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "ronek",
+          "method": "Exchanged BLIK to LTC",
+          "amount": 350,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T08:44:20.512Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "ronek",
+          "method": "Exchanged BLIK to LTC",
+          "amount": 350,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T08:48:50.482Z"
+        },
+        {
+          "from": "ronek",
+          "to": "ronek",
+          "method": "Exchanged BLIK to LTC",
+          "amount": 350,
+          "giver": "412235004228141069",
+          "date": "2026-06-09T08:49:07.604Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "ronek",
+          "method": "Exchanged BLIK to LTC",
+          "amount": 350,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T08:53:47.662Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "ronek",
+          "method": "Exchanged BLIK to LTC",
+          "amount": 350,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T08:54:27.067Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "ronek",
+          "method": "Exchanged BLIK to LTC",
+          "amount": 350,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T09:00:27.237Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "ronek",
+          "method": "Exchanged BLIK to LTC",
+          "amount": 350,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T09:00:27.238Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "ronek",
+          "method": "Exchanged BLIK to LTC",
+          "amount": 350,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T09:00:27.241Z"
+        },
+        {
+          "from": "ronek",
+          "to": "ronek",
+          "method": "Exchanged BLIK to LTC",
+          "amount": 350,
+          "giver": "412235004228141069",
+          "date": "2026-06-09T09:01:34.711Z"
+        },
+        {
+          "from": "ronek",
+          "to": "ronek",
+          "method": "Exchanged BLIK to LTC",
+          "amount": 350,
+          "giver": "412235004228141069",
+          "date": "2026-06-09T09:01:34.717Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "ronek",
+          "method": "Exchanged BLIK to LTC",
+          "amount": 350,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T09:01:43.467Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "ronek",
+          "method": "Exchanged BLIK to LTC",
+          "amount": 350,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T09:28:52.238Z"
+        },
+        {
+          "from": "ronek",
+          "to": "ronek",
+          "method": "Exchanged BLIK to CRYPTO",
+          "amount": 2500,
+          "giver": "412235004228141069",
+          "date": "2026-06-09T12:56:09.567Z"
+        },
+        {
+          "from": "ronek",
+          "to": "ronek",
+          "method": "Exchanged blik to ltc",
+          "amount": 2500,
+          "giver": "412235004228141069",
+          "date": "2026-06-09T17:11:05.208Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "ronek",
+          "method": "Exchanged blik to ltc",
+          "amount": 2500,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T17:12:29.261Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "ronek",
+          "method": "Exchanged blik to ltc",
+          "amount": 2500,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T17:12:44.530Z"
+        },
+        {
+          "from": "ronek",
+          "to": "ronek",
+          "method": "Exchanged blik to ltc",
+          "amount": 2500,
+          "giver": "412235004228141069",
+          "date": "2026-06-09T17:17:37.574Z"
+        },
+        {
+          "from": "ronek",
+          "to": "ronek",
+          "method": "Exchanged BLIK to CRYPTO",
+          "amount": 350,
+          "giver": "412235004228141069",
+          "date": "2026-06-09T17:23:36.814Z"
+        },
+        {
+          "from": "ronek",
+          "to": "ronek",
+          "method": "Exchanged BLIK to CRYPTO",
+          "amount": 2500,
+          "giver": "412235004228141069",
+          "date": "2026-06-09T18:45:56.533Z"
+        },
+        {
+          "from": "chorybiedak",
+          "to": "ronek",
+          "method": "Exchanged BLIK to CRYPTO",
+          "amount": 2500,
+          "giver": "1182211491143888988",
+          "date": "2026-06-09T18:47:53.819Z"
+        },
+        {
+          "from": "chorybiedak",
+          "to": "ronek",
+          "method": "Exchanged blik to crypto",
+          "amount": 2000,
+          "giver": "1182211491143888988",
+          "date": "2026-06-09T18:56:10.054Z"
+        },
+        {
+          "from": "chorybiedak",
+          "to": "ronek",
+          "method": "Exchanged blik to crypto",
+          "amount": 2000,
+          "giver": "1182211491143888988",
+          "date": "2026-06-09T18:56:21.451Z"
+        },
+        {
+          "from": "ronek",
+          "to": "ronek",
+          "method": "Exchanged blik to crypto",
+          "amount": 2500,
+          "giver": "412235004228141069",
+          "date": "2026-06-09T18:56:31.959Z"
+        },
+        {
+          "from": "ronek",
+          "to": "ronek",
+          "method": "Exchanged BLIK to CRYPTO",
+          "amount": 2500,
+          "giver": "412235004228141069",
+          "date": "2026-06-09T18:56:59.258Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "ronek",
+          "method": "Exchanged blik to crypto",
+          "amount": 200,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T19:03:21.016Z"
+        },
+        {
+          "from": "ronek",
+          "to": "ronek",
+          "method": "Exchanged blik to crypto",
+          "amount": 200,
+          "giver": "412235004228141069",
+          "date": "2026-06-09T19:03:48.212Z"
+        },
+        {
+          "from": "ronek",
+          "to": "ronek",
+          "method": "Exchanged blik to crypto",
+          "amount": 200,
+          "giver": "412235004228141069",
+          "date": "2026-06-09T19:08:54.557Z"
+        },
+        {
+          "from": "ronek",
+          "to": "ronek",
+          "method": "Exchanged blik to crypto",
+          "amount": 200,
+          "giver": "412235004228141069",
+          "date": "2026-06-09T19:09:02.114Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "ronek",
+          "method": "Exchanged blik to crypto",
+          "amount": 200,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T19:09:11.811Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "ronek",
+          "method": "Exchanged blik to crypto",
+          "amount": 200,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T19:09:33.094Z"
+        },
+        {
+          "from": "ronek",
+          "to": "ronek",
+          "method": "\\:nitro",
+          "amount": 0,
+          "giver": "412235004228141069",
+          "date": "2026-06-09T19:13:11.323Z"
+        },
+        {
+          "from": "ronek",
+          "to": "ronek",
+          "method": "\\:nitro:",
+          "amount": 0,
+          "giver": "412235004228141069",
+          "date": "2026-06-09T19:13:23.439Z"
+        }
+      ],
+      "backupKey": "D1884A47B82F67C9CCEE2379821274B5"
+    },
+    "1164490112130895882": {
+      "rep": 11,
+      "exchanges": [
+        {
+          "from": "ronek",
+          "to": "5gfn",
+          "method": "BLIK",
+          "amount": 200,
+          "giver": "412235004228141069",
+          "date": "2026-06-08T22:08:06.869Z"
+        },
+        {
+          "from": "bzrsergiusz",
+          "to": "5gfn",
+          "method": "Exchanged LTC to BLIK",
+          "amount": 250,
+          "giver": "687969747567902859",
+          "date": "2026-06-09T17:08:55.866Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "5gfn",
+          "method": "",
+          "amount": 0,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T19:13:37.531Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "5gfn",
+          "method": "\\<a:Nitro:1513951613100757052>",
+          "amount": 1513951613100757000,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T19:14:14.040Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "5gfn",
+          "method": "\\<:Netflix:1513981076677333012>",
+          "amount": 1513981076677333000,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T19:14:29.950Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "5gfn",
+          "method": "\\<:Valorant:1513981592316674300>",
+          "amount": 1513981592316674300,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T19:14:37.365Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "5gfn",
+          "method": "\\<:Duolingo:1513980895324012717>",
+          "amount": 1513980895324012800,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T19:14:44.310Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "5gfn",
+          "method": "\\<:Fivem:1513951745703805051>",
+          "amount": 1513951745703805000,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T19:14:50.264Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "5gfn",
+          "method": "\\<:Youtube:1513981411592507574>",
+          "amount": 1513981411592507600,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T19:15:07.669Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "5gfn",
+          "method": "\\<:Mullvad:1513981235117035701>",
+          "amount": 1513981235117035800,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T19:15:14.566Z"
+        },
+        {
+          "from": "5gfn",
+          "to": "5gfn",
+          "method": "\\<:Vinted:1513951660207112233>",
+          "amount": 1513951660207112200,
+          "giver": "1164490112130895882",
+          "date": "2026-06-09T19:15:22.565Z"
+        }
+      ],
+      "backupKey": null
+    },
+    "687969747567902859": {
+      "rep": 1,
+      "exchanges": [
+        {
+          "from": "bzrsergiusz",
+          "to": "bzrsergiusz",
+          "method": "w",
+          "amount": 161616,
+          "giver": "687969747567902859",
+          "date": "2026-06-08T23:36:09.542Z"
+        }
+      ],
+      "backupKey": null
+    },
+    "464905810271797258": {
+      "rep": 0,
+      "exchanges": [],
+      "backupKey": null
+    },
+    "1182211491143888988": {
+      "rep": 0,
+      "exchanges": [],
+      "backupKey": null
+    },
+    "1146092671346147400": {
+      "rep": 2,
+      "exchanges": [
+        {
+          "from": "ronek",
+          "to": "opooa_",
+          "method": "Exchanged BLIK to CRYPTO",
+          "amount": 350,
+          "giver": "412235004228141069",
+          "date": "2026-06-09T17:18:09.267Z"
+        },
+        {
+          "from": "ronek",
+          "to": "opooa_",
+          "method": "Exchanged BLIK to CRYPTO",
+          "amount": 350,
+          "giver": "412235004228141069",
+          "date": "2026-06-09T17:23:21.892Z"
+        }
+      ],
+      "backupKey": null
+    }
+  },
+  "repCount": 0,
+  "exchanges": {},
+  "legitCount": 1
+}
